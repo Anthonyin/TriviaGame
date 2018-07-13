@@ -1,0 +1,69 @@
+img {
+  max-height: 200px;
+  width: auto;
+}
+
+#answerblock {
+  text-align: center;
+}
+
+#questionblock {
+  text-align: center;
+  font-weight: bold;
+}
+
+body {
+  height: 100%;
+  background-image: url('https://foodrevolution.org/wp-content/uploads/2018/03/blog-featured_healthy_foods-20180306.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Karla', sans-serif;
+}
+
+.container {
+  margin: 10px, auto;
+  background-color: white;
+  opacity: 0.5;
+  height: 500px;
+  width: 50%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  padding: 30px;
+  font-size: 30px;
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: green;
+  font-size: 20px;
+}
+
+h2,
+h4 {
+  margin: 30px;
+  font-weight: bold;
+}
+
+.btn {
+  position: relative;
+  bottom: -150px;
+}
+
+.answerchoice {
+  background-color: white;
+  border: 2px;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+
+#reset {
+  visibility: visible;
+}
